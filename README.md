@@ -15,3 +15,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 </div>
+
+[![DropSilk Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=medy17&repo=dropsilk&bg_color=1F222E&title_color=5bcefa&icon_color=5bcefa&text_color=f5a9b8&border_color=5bcefa&show_owner=true)](https://github.com/medy17/dropsilk)
+

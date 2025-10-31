@@ -15,8 +15,3 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 </div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&duration=3000&pause=1000&color=F5A9B8&width=435&lines=Active+Projects)](https://git.io/typing-svg)
-
-[![DropSilk Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=medy17&repo=dropsilk&bg_color=1F222E&title_color=5bcefa&icon_color=5bcefa&text_color=f5a9b8&border_color=5bcefa&show_owner=true)](https://github.com/medy17/dropsilk)
-

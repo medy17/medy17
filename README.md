@@ -2,8 +2,6 @@
 <img src="https://raw.githubusercontent.com/medy17/medy17/refs/heads/main/readme-assets/AA.webp" alt="My Logo" width="120" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&duration=3000&size=24&pause=1000&color=5BCEFA&width=435&lines=I'm+Ahmed)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&duration=3000&pause=1000&color=F5A9B8&width=435&lines=My+Stack)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="render"/>

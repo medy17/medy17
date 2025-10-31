@@ -1,13 +1,6 @@
-<!-- Before -->
-<div>
-  <img src="https://img.shields.io/github/license/medy17/dropsilk?style=for-the-badge" alt="License"/>
-  <img src="https://img.shields.io/github/last-commit/medy17/dropsilk?style=for-the-badge" alt="Last Commit"/>
-</div>
-
-<!-- After -->
 <div align="center">
   <!-- Existing Badges -->
-  <img src="https://img.shields.io/github/license/medy17/dropsilk?style=for-the-badge" alt="License"/>
+  <img src="[https://img.shields.io/github/license/medy17/dropsilk?style=for-the-badge](https://ahmed-arat.vercel.app/portrait_ahmed_bgless.webp)" alt="me"/>
   <img src="https://img.shields.io/github/last-commit/medy17/dropsilk?style=for-the-badge" alt="Last Commit"/>
   <br />
   <!-- Tech Stack Badges -->

@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <img src="https://raw.githubusercontent.com/medy17/medy17/refs/heads/main/readme-assets/AA.webp" alt="My Logo" width="120" />
 </div>
 

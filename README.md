@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Medy;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Medy)](https://git.io/typing-svg)
 
-## My Stack
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Stack)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="render"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>

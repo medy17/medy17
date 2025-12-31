@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/medy17/medy17/refs/heads/main/readme-assets/AA.webp" alt="My Logo" width="120" />
+<img src="https://raw.githubusercontent.com/medy17/medy17/refs/heads/main/readme-assets/logo.png" alt="My Logo" width="120" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&duration=3000&pause=1000&color=F5A9B8&width=435&lines=My+Stack)](https://git.io/typing-svg)
